@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "Hello, World"
+=======
+echo "Hello, world"
+>>>>>>> 27eee259e392b11863afb30acd5b5ec51d6b6f05
